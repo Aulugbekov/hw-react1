@@ -1,0 +1,16 @@
+.block {
+  display: flex;
+  font-size: 15px;
+  color: rgb(6, 7, 6);
+  justify-content: space-evenly;
+  border: 1px solid black;
+  border-radius: 10px;
+  gap: 10px;
+  margin-bottom: 5px;
+  background-color: burlywood;
+}
+
+.item {
+  color: rgb(0, 0, 0);
+  font-size: large;
+}
